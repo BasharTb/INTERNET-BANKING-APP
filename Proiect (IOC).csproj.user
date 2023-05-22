@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ATM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreareContMeniuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreareContPIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DateCreareCont.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DateCreareCont2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepunereNumerar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAnalytics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAnalytics2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDashboardNewAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTransactions2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTranzactii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PasswordVerifyATM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProgressBarProces2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProgressBarProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\BTtextbox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Resources\BTtextboxEmail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Resources\BTtextboxNumbers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="RetragereNumerar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SchimbValutar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
